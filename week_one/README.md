@@ -13,3 +13,9 @@ Weights: Changing the weights will affect the slope of the line
 
 Want the network's prediction error to be as small as possible by adjusting 
 the weights. Find weights that minimisee the squared error.
+
+## Multilayer Perceptrons
+
+Allow solutions to nonlinear datasets
+More layers allow solutions to more complex problmes
+

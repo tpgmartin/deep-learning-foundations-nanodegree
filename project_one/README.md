@@ -1,4 +1,4 @@
-# Week One
+# Project One
 
 Gradient descent to minimise cost funciton
 

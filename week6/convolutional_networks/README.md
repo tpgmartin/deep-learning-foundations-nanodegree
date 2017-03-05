@@ -123,3 +123,13 @@ concatenate them
 ### CNN in TensorFlow
 
 [Max pooling](https://cs231n.github.io/convolutional-networks/)
+
+### Additional Resources
+
+There are many wonderful free resources that allow you to go into more depth around Convolutional Neural Networks. In this course, our goal is to give you just enough intuition to start applying this concept on real world problems so you have enough of an exposure to explore more on your own. We strongly encourage you to explore some of these resources more to reinforce your intuition and explore different ideas.
+
+These are the resources we recommend in particular:
+
+Andrej Karpathy's [CS231n Stanford course](https://cs231n.github.io/) on Convolutional Neural Networks.
+Michael Nielsen's [free book](http://neuralnetworksanddeeplearning.com/) on Deep Learning.
+Goodfellow, Bengio, and Courville's more advanced [free book](http://www.deeplearningbook.org/) on Deep Learning.
